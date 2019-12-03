@@ -1,4 +1,4 @@
-FROM haproxy:2.0.5-alpine
+FROM haproxy:2.0.10-alpine
 
 ENV HAPROXY_GROUP_ID=1000 \
     HAPROXY_USER_ID=1000
